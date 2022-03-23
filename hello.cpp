@@ -11,6 +11,6 @@ class Hello{
 };
 int main()
 {
-    Hello greeting("Shreyas");
+    Hello greeting("Shreyas Mohite");
     
 }
